@@ -35,6 +35,17 @@ export const homeStyles = StyleSheet.create({
     paddingBottom: 12,
   },
 
+  listContent: {
+    paddingTop: 24,
+    paddingBottom: 62,
+  },
+
+  emptyList: {
+    fontSize: 14,
+    color: '#808080',
+    textAlign: 'center',
+  },
+
   clearButton: {
     marginLeft: 'auto',
   },
@@ -43,6 +54,13 @@ export const homeStyles = StyleSheet.create({
     fontSize: 12,
     color: '#828282',
     fontWeight: '600',
+  },
+
+  separator: {
+    width: '100%',
+    height: 1,
+    backgroundColor: '#EEF0F5',
+    marginVertical: 16,
   },
 
   logo: {
