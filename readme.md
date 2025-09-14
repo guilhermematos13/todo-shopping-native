@@ -47,3 +47,7 @@ src/
  ├── screens/      # Telas principais do app
  └── storage/      # Gerenciamento do AsyncStorage
 ```
+
+# Prévia do app:
+<img width="338" height="703" alt="image" src="https://github.com/user-attachments/assets/8fd79e12-cc95-4887-a79a-c14505c096e0" />
+
